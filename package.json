@@ -1,0 +1,26 @@
+{
+  "name": "project_data",
+  "version": "1.0.0",
+  "description": "By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com\r --------------",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuntalkumar/wanderlust_be.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuntalkumar/wanderlust_be.git"
+  },
+  "homepage": "https://github.com/kuntalkumar/wanderlust_be#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
